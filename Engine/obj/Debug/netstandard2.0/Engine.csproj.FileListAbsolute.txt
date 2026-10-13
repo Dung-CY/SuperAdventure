@@ -1,0 +1,10 @@
+C:\Users\PC-Admin\source\repos\SuperAdventure\Engine\bin\Debug\netstandard2.0\Engine.deps.json
+C:\Users\PC-Admin\source\repos\SuperAdventure\Engine\bin\Debug\netstandard2.0\Engine.dll
+C:\Users\PC-Admin\source\repos\SuperAdventure\Engine\bin\Debug\netstandard2.0\Engine.pdb
+C:\Users\PC-Admin\source\repos\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.csproj.AssemblyReference.cache
+C:\Users\PC-Admin\source\repos\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-Admin\source\repos\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfoInputs.cache
+C:\Users\PC-Admin\source\repos\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.AssemblyInfo.cs
+C:\Users\PC-Admin\source\repos\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\PC-Admin\source\repos\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.dll
+C:\Users\PC-Admin\source\repos\SuperAdventure\Engine\obj\Debug\netstandard2.0\Engine.pdb
