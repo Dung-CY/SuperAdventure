@@ -20,7 +20,7 @@ namespace SuperAdventure
         {
             InitializeComponent();
 
-            _player = new Player();
+            _player = new Player(10, 10, 20, 0, 1);
 
             _player.CurrentHitPoints = 10;
             _player.MaximumHitPoints = 10;
@@ -32,6 +32,16 @@ namespace SuperAdventure
             lblGold.Text = _player.Gold.ToString();
             lblExperience.Text = _player.ExperiencePoints.ToString();
             lblLevel.Text = _player.Level.ToString();
+        }
+
+        private void SuperAdventure_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
